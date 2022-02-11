@@ -61,6 +61,13 @@ plotter is project for visualize all kind of data to any type of visualize you w
 ![alt text](https://github.com/omarzain27/Plotter-project/blob/master/plot1.PNG)
 
 
+![alt text](https://github.com/omarzain27/Plotter-project/blob/master/plot2.PNG)
+
+
+
+![alt text](https://github.com/omarzain27/Plotter-project/blob/master/plot3.PNG)
+
+
 
 
 
